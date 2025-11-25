@@ -1,6 +1,7 @@
-// hello world
-let mensagem = "hello world!"
-console.log(mensagem);
-console.log(mensagem);
-console.log(mensagem);
-console.log(mensagem);
+// arrays, objetos
+let meta = {
+    value: 'ler um livro por mês',
+    checked: false
+}
+
+console.log(meta.value)
